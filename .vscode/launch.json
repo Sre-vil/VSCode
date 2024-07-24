@@ -8,8 +8,8 @@
       "args": [],
       "stopAtEntry": false,
       "externalConsole": true,
-      "cwd": "c:/Users/신우빈/Use/VSCode/Doit_Python_Algorithm/Ch02",
-      "program": "c:/Users/신우빈/Use/VSCode/Doit_Python_Algorithm/Ch02/build/Debug/outDebug",
+      "cwd": "c:/Users/tlsdn/Use/VSCode",
+      "program": "c:/Users/tlsdn/Use/VSCode/build/Debug/outDebug",
       "MIMode": "gdb",
       "miDebuggerPath": "gdb",
       "setupCommands": [
