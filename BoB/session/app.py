@@ -38,8 +38,6 @@ def login_confirm():
     id = request.form['id']
     pw = request.form['pw']
     if id == 'admin' and pw == 'admin' and session_id in sessions:
-        print("여기까지는 됨")
-        print(rsp)
         return render_template('success.html', session_value=session_id)
     else:
         return '''
